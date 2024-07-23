@@ -6,11 +6,11 @@
 
 	/* --text-color is assigned to --color-gray-_ above */
 	--text-color: var(--color-gray-90);
-	--text-color-link: #1493fb;
-	--text-color-link-active: #6969f7;
-	--text-color-link-visited: #a6a6f8;
+	--text-color-link: black;
+	--text-color-link-active: brown;
+	--text-color-link-visited: black;
 
-	--background-color: #41729F;
+	--background-color: #F2F1F0;
 	--syntax-tab-size: 2;
 }
 
@@ -78,7 +78,7 @@ main :first-child {
 header, footer {
 	box-sizing: content-box;
 	margin: 10px;
-	background-color: #274472;
+	background-color: #C0C9CC;
 	border-radius: 1rem;
 }
 header:after {

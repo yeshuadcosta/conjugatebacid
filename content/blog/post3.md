@@ -7,7 +7,7 @@ tags:
   - Technology
 ---
 
-A Dose of Stop-Motion 
+# A Dose of Stop-Motion 
 ## An attempt to replicate some simple animation
 
 Stop Motion Animation is a technique to make a physically manipulated object appear to move on its own. It was pioneered by british animation company - Aardman Animation. They utilize plasticine (somewhat similar to clay) to mold humanoid models and have created some of the world's most known animated characters with the likes of 'Wallace and Gromit', 'Morph', and 'Chicken Run.'

@@ -259,3 +259,7 @@ h2 + .header-anchor {
 	font-family: 'Roboto Slab', serif;
 	font-size: 1.5em;
 }
+
+blockquote {
+	background-color: #fff340;
+}

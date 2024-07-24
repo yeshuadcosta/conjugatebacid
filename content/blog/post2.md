@@ -7,7 +7,7 @@ tags:
   - prayer
 ---
 
-### Poem On Prayer
+## A Short Poem on Prayer
 
 **Prayer**, What a *beautiful* thing  
 Raid the **devil**, *victory* you shall bring;  

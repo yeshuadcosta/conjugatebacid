@@ -21,7 +21,7 @@ I have attempted to replicate this animation technique to relicate this effect. 
 
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">The Scrambled Battle <a href="https://t.co/rlLAnyJDoX">pic.twitter.com/rlLAnyJDoX</a></p>&mdash; Yeshua D&#39;Costa (@conjugatebacid) <a href="https://twitter.com/conjugatebacid/status/1816089924594196791?ref_src=twsrc%5Etfw">July 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-The plot of the video starts with rubix trying to solve itself with any external interference, and ends with a die cast model drifting along the surface and somehow crashing into the rubix cube.
+The plot of the video starts with the rubix cube trying to solve itself with any external interference, and ends with a die cast model drifting along the surface and somehow crashing into the rubix cube.
 
 So in this post, I have successfully created a stop-motion animation short which took me around an hour and a half to create and a few more minutes to edit the video with some music (Parody of the Sonng, 'U Can't Touch This.). Animation techniques such as these are widely utilized in advertisements in The United Kingdom and have a cult following on the internet so I see no reason for such animation to replaced by 3D Animation which falls into the domain of Disney's Pixar Animation Studios.
 

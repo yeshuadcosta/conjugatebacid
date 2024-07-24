@@ -12,7 +12,7 @@ A Dose of Stop-Motion
 
 Stop Motion Animation is a technique to make a physically manipulated object appear to move on its own. It was pioneered by british animation company - Aardman Animation. They utilize plasticine (somewhat similar to clay) to mold humanoid models and have created some of the world's most known animated characters with the likes of 'Wallace and Gromit', 'Morph', and 'Chicken Run.'
 
-![Wallace and Gromit in The wrong Trousers](/img/post3/wallaceandgromit.jpg "Wallace and Gromit")
+<img src="/img/post3/wallaceandgromit.jpg" width=100%>
 
 Their animation technique involves the use of high-end cameras, which instead of filming videos, they click pictures, with a slight overlay of the previous picture taken, for a good reason. The models are manually moved ever so slightly and a picture of the whole setup called a 'frame' is taken. The pictures are then placed in order of which they taken. This forms a illusion in the form of a video in such a way that these physical objects appear to move.
 
@@ -26,4 +26,4 @@ The plot of the video starts with rubix trying to solve itself with any external
 
 So in this post, I have successfully created a stop-motion animation short which took me around an hour and a half to create and a few more minutes to edit the video with some music (Parody of the Sonng, 'U Can't Touch This.). Animation techniques such as these are widely utilized in advertisements in The United Kingdom and have a cult following on the internet so I see no reason for such animation to replaced by 3D Animation which falls into the domain of Disney's Pixar Animation Studios.
 
-![Morph being sculpted](/img/post3/morph.jpg)
+<img src="/img/post3/morph.jpg" width=100%>

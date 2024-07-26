@@ -21,8 +21,8 @@ The error was traced to a specialised Antivirus Program - Crowdstrike Falcon, wh
 
 An immediate fix from IT Admins was to login into these computers via 'Safe Mode,' and unroll the update from Crowdstrike. Later on, Microsoft releases recovery tool to help repair Windows machines hit by CrowdStrike issue. A patch was later deployed to all Windows Computers, probably to fix the vulnerablilty and prevent the isssue from recurring.
 
-This event was dubbed, 'The Modern Y2K, ' due to the panic and disruption that it caused on a global scale which replicated the expectations of the Y2K on New Year's Eve, 1999.
-The very fact that modern civilisation depends so heavily upon computers that a single bug in an antivirus program has enough to disrupt its normal course. This raised public concern and also gave to many memes.
+This event was dubbed, 'The Modern Y2K,' due to the panic and disruption that it caused on a global scale which replicated the expectations of the Y2K on New Year's Eve, 1999.
+The very fact that modern civilisation depends so heavily upon computers that a single bug in an antivirus program has enough to disrupt its normal course. This raised public concern and also gave rise to many memes.
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Blue screen of death <a href="https://t.co/OgV0vbhAB8">pic.twitter.com/OgV0vbhAB8</a></p>&mdash; Sir Doge of the Coin ⚔️ (@dogeofficialceo) <a href="https://twitter.com/dogeofficialceo/status/1814213241192829260?ref_src=twsrc%5Etfw">July 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 

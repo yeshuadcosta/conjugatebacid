@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="en">
+	<title>CONJUGATEBACID</title>
+	<subtitle>The homogenous customised blog of Yeshua D&#39;Costa.</subtitle>
+	<link href="https://conjugatebacid.vercel.app/yjdx/feed/feed.xml" rel="self"/>
+	<link href="https://conjugatebacid.vercel.app/yjdx/"/>
+	<updated>2024-07-26T00:00:00Z</updated>
+	<id>https://conjugatebacid.vercel.app</id>
+	<author>
+		<name>Yeshua D&#39;Costa</name>
+		<email>yeshuadcosta@gmail.com</email>
+	</author>
+	
+	<entry>
+		<title>It&#39;s Y2K all over again</title>
+		<link href="https://conjugatebacid.vercel.app/yjdx/blog/post4/"/>
+		<updated>2024-07-26T00:00:00Z</updated>
+		<id>https://conjugatebacid.vercel.app/yjdx/blog/post4/</id>
+		<content type="html">&lt;h2 id=&quot;the-modern-iteration-of-y2k&quot; tabindex=&quot;-1&quot;&gt;The Modern Iteration of Y2K &lt;a class=&quot;header-anchor&quot; href=&quot;https://conjugatebacid.vercel.app/yjdx/blog/post4/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;On 19 July, 2024, about 8.5 million computers around the globe running Microsoft Windows gave a very specific error message. Every single one of these machines contained higly sensitive information. This error affected Banks, Airline Companies and Government and Healthcare Departments.&lt;/p&gt;
+&lt;img src=&quot;https://conjugatebacid.vercel.app/yjdx/img/post4/winerror.jpg&quot; width=&quot;100%&quot;&gt;
+&lt;p&gt;The error was traced to a specialised Antivirus Program - Crowdstrike Falcon, which operates at the kernel level to prevent virus and malware attacks from spreading in a computer by terminating it before the attack even begins. A single bug in Crowdstrike Falcon caused the error at the kernel level component of Microsoft Windows.&lt;/p&gt;
+&lt;img src=&quot;https://conjugatebacid.vercel.app/yjdx/img/post4/crowdstrikefalcon.jpg&quot; width=&quot;100%&quot;&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-dnt=&quot;true&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;CrowdStrike is actively working with customers impacted by a defect found in a single content update for Windows hosts. Mac and Linux hosts are not impacted. This is not a security incident or cyberattack. The issue has been identified, isolated and a fix has been deployed. We…&lt;/p&gt;&amp;mdash; George Kurtz (@George_Kurtz) &lt;a href=&quot;https://twitter.com/George_Kurtz/status/1814235001745027317?ref_src=twsrc%5Etfw&quot;&gt;July 19, 2024&lt;/a&gt;&lt;/blockquote&gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;`
+&lt;p&gt;An immediate fix from IT Admins was to login into these computers via &#39;Safe Mode,&#39; and unroll the update from Crowdstrike. Later on, Microsoft releases recovery tool to help repair Windows machines hit by CrowdStrike issue. A patch was later deployed to all Windows Computers, probably to fix the vulnerablilty and prevent the isssue from recurring.&lt;/p&gt;
+&lt;p&gt;This event was dubbed, &#39;The Modern Y2K,&#39; due to the panic and disruption that it caused on a global scale which replicated the expectations of the Y2K on New Year&#39;s Eve, 1999.
+The very fact that modern civilisation depends so heavily upon computers that a single bug in an antivirus program has enough to disrupt its normal course. This raised public concern and also gave rise to many memes.&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-dnt=&quot;true&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Blue screen of death &lt;a href=&quot;https://t.co/OgV0vbhAB8&quot;&gt;pic.twitter.com/OgV0vbhAB8&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sir Doge of the Coin ⚔️ (@dogeofficialceo) &lt;a href=&quot;https://twitter.com/dogeofficialceo/status/1814213241192829260?ref_src=twsrc%5Etfw&quot;&gt;July 19, 2024&lt;/a&gt;&lt;/blockquote&gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt; 
+&lt;p&gt;On the contrary, Macintosh and Linux systems remained unaffected by the bug.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>A Dose of Stop Motion</title>
+		<link href="https://conjugatebacid.vercel.app/yjdx/blog/post3/"/>
+		<updated>2024-07-24T00:00:00Z</updated>
+		<id>https://conjugatebacid.vercel.app/yjdx/blog/post3/</id>
+		<content type="html">&lt;h2 id=&quot;an-attempt-to-replicate-some-simple-animation&quot; tabindex=&quot;-1&quot;&gt;An attempt to replicate some simple animation &lt;a class=&quot;header-anchor&quot; href=&quot;https://conjugatebacid.vercel.app/yjdx/blog/post3/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Stop Motion Animation is a technique to make a physically manipulated object appear to move on its own. It was pioneered by british animation company - Aardman Animation. They utilize plasticine (somewhat similar to clay) to mold humanoid models and have created some of the world&#39;s most known animated characters with the likes of &#39;Wallace and Gromit&#39;, &#39;Morph&#39;, and &#39;Chicken Run.&#39;&lt;/p&gt;
+&lt;img src=&quot;https://conjugatebacid.vercel.app/yjdx/img/post3/wallaceandgromit.jpg&quot; width=&quot;100%&quot;&gt;
+&lt;p&gt;Their animation technique involves the use of high-end cameras, which instead of filming videos, they click pictures, with a slight overlay of the previous picture taken, for a good reason. The models are manually moved ever so slightly and a picture of the whole setup called a &#39;frame&#39; is taken. The pictures are then placed in order of which they taken. This forms a illusion in the form of a video in such a way that these physical objects appear to move.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;THE SCIENCE BEHIND IT ALL: This animation technique is possible due to The After Image Effect in The Humna Eye, where each &#39;frame&#39; of the video is retained in the eye for a longer period than it is visible on the screen.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I have attempted to replicate this animation technique to relicate this effect. To demonstrate the simplicity of this technique, I have a rubix cube, a die cast car, a lamp and camera of a smartphone.&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot; data-dnt=&quot;true&quot; data-theme=&quot;dark&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;The Scrambled Battle &lt;a href=&quot;https://t.co/rlLAnyJDoX&quot;&gt;pic.twitter.com/rlLAnyJDoX&lt;/a&gt;&lt;/p&gt;&amp;mdash; Yeshua D&amp;#39;Costa (@conjugatebacid) &lt;a href=&quot;https://twitter.com/conjugatebacid/status/1816089924594196791?ref_src=twsrc%5Etfw&quot;&gt;July 24, 2024&lt;/a&gt;&lt;/blockquote&gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt; 
+&lt;p&gt;The plot of the video starts with the rubix cube trying to solve itself with any external interference, and ends with a die cast model drifting along the surface and somehow crashing into the rubix cube.&lt;/p&gt;
+&lt;p&gt;So in this post, I have successfully created a stop-motion animation short which took me around an hour and a half to create and a few more minutes to edit the video with some music (Parody of the Sonng, &#39;U Can&#39;t Touch This.). Animation techniques such as these are widely utilized in advertisements in The United Kingdom and have a cult following on the internet so I see no reason for such animation to replaced by 3D Animation which falls into the domain of Disney&#39;s Pixar Animation Studios.&lt;/p&gt;
+&lt;img src=&quot;https://conjugatebacid.vercel.app/yjdx/img/post3/morph.jpg&quot; width=&quot;100%&quot;&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Poem On Prayer</title>
+		<link href="https://conjugatebacid.vercel.app/yjdx/blog/post2/"/>
+		<updated>2023-12-04T00:00:00Z</updated>
+		<id>https://conjugatebacid.vercel.app/yjdx/blog/post2/</id>
+		<content type="html">&lt;h2 id=&quot;a-short-poem-on-prayer&quot; tabindex=&quot;-1&quot;&gt;A Short Poem on Prayer &lt;a class=&quot;header-anchor&quot; href=&quot;https://conjugatebacid.vercel.app/yjdx/blog/post2/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Prayer&lt;/strong&gt;, What a &lt;em&gt;beautiful&lt;/em&gt; thing&lt;br&gt;
+Raid the &lt;strong&gt;devil&lt;/strong&gt;, &lt;em&gt;victory&lt;/em&gt; you shall bring;&lt;br&gt;
+&lt;em&gt;Abandon&lt;/em&gt; your &lt;strong&gt;wordly addictions&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Yearn&lt;/em&gt; for &lt;strong&gt;God&lt;/strong&gt;,&lt;br&gt;
+He will &lt;em&gt;eradicate&lt;/em&gt; your &lt;strong&gt;afflictions&lt;/strong&gt;;&lt;br&gt;
+&lt;em&gt;Raise&lt;/em&gt; up your problems,&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Prayer helps with that&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Faithfulness&lt;/strong&gt;, it &lt;em&gt;instills&lt;/em&gt; in you,&lt;br&gt;
+Certainly &lt;strong&gt;not&lt;/strong&gt; the spirit of a &lt;em&gt;brat.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;~Yeshua D&#39;Costa&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>The Impossible Conjecture</title>
+		<link href="https://conjugatebacid.vercel.app/yjdx/blog/post1/"/>
+		<updated>2023-10-29T00:00:00Z</updated>
+		<id>https://conjugatebacid.vercel.app/yjdx/blog/post1/</id>
+		<content type="html">&lt;h3 id=&quot;introduction&quot; tabindex=&quot;-1&quot;&gt;Introduction &lt;a class=&quot;header-anchor&quot; href=&quot;https://conjugatebacid.vercel.app/yjdx/blog/post1/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The Collatz Conjecture is an unsolved problem in mathematics. This conjecture is named after the mathematician Lothar Collatz, who introduced the idea in 1937. The conjecture also known as Syrucuse conjecture or problem.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Take any positive integer n. If n is even then divide it by 2, else do &amp;quot;triple plus one&amp;quot; and get 3n+1. The conjecture is that for all numbers, this process converges to &lt;strong&gt;one&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Paul Erdős said about the Collatz conjecture, &amp;quot;Mathematics may not be ready for such problems.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Jeffrey Lagarias stated that the Collatz conjecture &amp;quot;is an extraordinarily difficult problem, completely out of reach of present day mathematics.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Implementation Of The Collatz Conjecture in C++&lt;/strong&gt;&lt;/p&gt;
+&lt;pre class=&quot;language-c&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-c&quot;&gt;&lt;span class=&quot;token macro property&quot;&gt;&lt;span class=&quot;token directive-hash&quot;&gt;#&lt;/span&gt;&lt;span class=&quot;token directive keyword&quot;&gt;include&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&amp;lt;iostream&gt;&lt;/span&gt;&lt;/span&gt;
+
+using namespace std&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;main&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt; numeral&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+	cout &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Enter the Numeral: &quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+	cin &lt;span class=&quot;token operator&quot;&gt;&gt;&gt;&lt;/span&gt; numeral&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt; MAX_ITERATIONS&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt; count&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+    cout &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Enter the number of iterations of the sequence: &quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    cin &lt;span class=&quot;token operator&quot;&gt;&gt;&gt;&lt;/span&gt; MAX_ITERATIONS&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;token keyword&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;count&lt;span class=&quot;token operator&quot;&gt;&amp;lt;=&lt;/span&gt;MAX_ITERATIONS&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;numeral&lt;span class=&quot;token operator&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;token comment&quot;&gt;// If the numeral is even, divide it by 2&lt;/span&gt;
+            numeral &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;numeral&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+            cout &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;/2: &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; numeral &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; endl&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;numeral&lt;span class=&quot;token operator&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;!=&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;token comment&quot;&gt;// If the numeral is odd, multiply it by 3 and add 1&lt;/span&gt;
+            numeral &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;numeral&lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+            cout &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;3x+1: &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; numeral &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; endl&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+        &lt;span class=&quot;token comment&quot;&gt;// The following code restricts the number of repetitions of the sequence `4, 2, 1`&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;numeral &lt;span class=&quot;token operator&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;count&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+    cout &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;The sequence `4, 2, 1` has been repeated &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; MAX_ITERATIONS &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; times!&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The constant &lt;code&gt;MAX_ITERATIONS&lt;/code&gt; controls the maximum number of times, the sequence &lt;code&gt;4, 2, 1&lt;/code&gt; is repeated while the variable &lt;code&gt;count&lt;/code&gt; stores the number of occurences of the number &lt;code&gt;1&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;If the number is &lt;em&gt;even&lt;/em&gt;, it is divided by &lt;code&gt;2&lt;/code&gt;, its divisibility by &lt;code&gt;2&lt;/code&gt; is proven by &lt;code&gt;numeral%2&lt;/code&gt;, which in this case, should be equal to zero.&lt;/p&gt;
+&lt;p&gt;If the number is &lt;em&gt;odd&lt;/em&gt;, it is multiplied by &lt;code&gt;3&lt;/code&gt; and &#39;1&#39; is added to the product, its divisibility by &lt;code&gt;2&lt;/code&gt; in this case &lt;code&gt;numeral%2&lt;/code&gt;, should not be equal to zero and should provide the remainder of the number on division by &lt;code&gt;2&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Output of the C++ Code&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For the following example, the number &lt;code&gt;10&lt;/code&gt; has been used&lt;/p&gt;
+&lt;pre class=&quot;language-bash&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;Enter the Numeral: &lt;span class=&quot;token number&quot;&gt;10&lt;/span&gt;
+Enter the number of iterations of the sequence: &lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;
+/2: &lt;span class=&quot;token number&quot;&gt;5.0&lt;/span&gt;
+3x+1: &lt;span class=&quot;token number&quot;&gt;16.0&lt;/span&gt;
+/2: &lt;span class=&quot;token number&quot;&gt;8.0&lt;/span&gt;
+/2: &lt;span class=&quot;token number&quot;&gt;4.0&lt;/span&gt;
+/2: &lt;span class=&quot;token number&quot;&gt;2.0&lt;/span&gt;
+/2: &lt;span class=&quot;token number&quot;&gt;1.0&lt;/span&gt;
+3x+1: &lt;span class=&quot;token number&quot;&gt;4.0&lt;/span&gt;
+/2: &lt;span class=&quot;token number&quot;&gt;2.0&lt;/span&gt;
+/2: &lt;span class=&quot;token number&quot;&gt;1.0&lt;/span&gt;
+3x+1: &lt;span class=&quot;token number&quot;&gt;4.0&lt;/span&gt;
+/2: &lt;span class=&quot;token number&quot;&gt;2.0&lt;/span&gt;
+/2: &lt;span class=&quot;token number&quot;&gt;1.0&lt;/span&gt;
+3x+1: &lt;span class=&quot;token number&quot;&gt;4.0&lt;/span&gt;
+/2: &lt;span class=&quot;token number&quot;&gt;2.0&lt;/span&gt;
+/2: &lt;span class=&quot;token number&quot;&gt;1.0&lt;/span&gt;
+The sequence &lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;4&lt;/span&gt;, &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;, &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;`&lt;/span&gt;&lt;/span&gt; has been repeated &lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt; times.&lt;/code&gt;&lt;/pre&gt;
+</content>
+	</entry>
+</feed>

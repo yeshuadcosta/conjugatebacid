@@ -1,5 +1,5 @@
 module.exports = {
-	title: "Conjugate Bacid",
+	title: "CONJUGATEBACID",
 	url: "https://conjugatebacid.vercel.app",
 	language: "en",
 	description: "The homogenous customised blog of Yeshua D'Costa.",

@@ -1,6 +1,6 @@
 module.exports = {
-	title: "YJD𝕏",
-	url: "https://yjdx.netlify.app/",
+	title: "Conjugate Bacid",
+	url: "https://conjugatebacid.vercel.app",
 	language: "en",
 	description: "The homogenous customised blog of Yeshua D'Costa.",
 	author: {
